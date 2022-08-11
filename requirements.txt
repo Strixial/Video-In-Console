@@ -1,0 +1,7 @@
+pillow
+numpy
+ffmpeg
+pafy
+python_vlc
+cv2
+image_to_Ascii
